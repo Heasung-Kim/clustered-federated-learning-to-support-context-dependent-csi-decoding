@@ -1,1 +1,1 @@
-# learning-context-dependent-csi-feedback-autoencoders
+# federated-learning-of-context-dependent-csi-feedback-autoencoders
